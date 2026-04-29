@@ -1,22 +1,50 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=e63946&height=220&section=header&text=Mahak%20Fahad&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%7C%20Founder%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e63946&height=220&section=header&text=Mahak%20Fahad&fontSize=60&fontColor=fff&fontAlignY=38&desc=AI%20Builder%20%7C%20Startup%20Founder%20%7C%20CS%20Student&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Building+AI+products+that+matter+%F0%9F%9A%80;Founder+of+India's+First+Hot+Wheels+AI+Scanner;Full+Stack+%2B+AI+%2B+Product+Builder;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Building+AI+products+that+actually+ship+%F0%9F%9A%80;Founder+%40+Hotscan+%E2%80%94+India's+First+Hot+Wheels+AI+Scanner;CS+Student+who+codes+like+a+founder;LLMs+%7C+RAG+%7C+Full+Stack+%7C+Real+Products)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub Pro](https://img.shields.io/badge/GitHub-PRO-e63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak867)
+[![Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak867)
+[![Visitor Count](https://komarev.com/ghpvc/?username=mahak867&label=Profile+Views&color=e63946&style=for-the-badge)](https://github.com/mahak867)
+[![Stars](https://img.shields.io/github/stars/mahak867?label=Total%20Stars&style=for-the-badge&color=e63946&logo=github)](https://github.com/mahak867)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Mahak Fahad** — a student, developer, and founder passionate about building AI-powered products from scratch. I started with curiosity and turned it into real products people actually use.
+I'm **Mahak Fahad** — a Computer Science student and startup founder from India who builds AI products that solve real problems. While most students are doing assignments, I'm shipping products.
 
-- 🔭 Currently working on **[Hotscan](https://hotscan.in)** — India's First Hot Wheels AI Scanner
-- 🤖 Passionate about **LLMs, AI Agents, RAG pipelines, and real-world AI applications**
-- 🌱 Always exploring new tech — from gesture recognition to browser extensions
-- 💡 I believe in building fast, learning from users, and iterating with purpose
-- 📬 Reach me at **mahakfahad07@gmail.com**
+I founded **[Hotscan](https://hotscan.in)** — India's first AI-powered Hot Wheels scanner that lets collectors identify, track, and manage their die-cast collections using computer vision. No barcode needed — just point and scan.
+
+My stack spans the full journey from idea to production: AI models, backend APIs, React frontends, and cloud deployment. I'm not just learning to code — I'm coding to build.
+
+```
+🎯 Current Focus  → Growing Hotscan & shipping new AI tools
+🧠 Exploring      → LLM Agents, RAG pipelines, Computer Vision
+🌍 Based in       → India
+💬 Ask me about   → AI products, building as a student, React, Python
+```
+
+---
+
+## 🏅 Achievements & Badges
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahak867&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+<div align="center">
+
+[![An image of @mahak867's Holopin badges](https://holopin.me/mahak867)](https://holopin.io/@mahak867)
+
+</div>
 
 ---
 
@@ -57,20 +85,10 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔥 **[Hotscan](https://github.com/mahak867/Hotscan)** | India's First Hot Wheels AI Scanner — scan, identify & track your collection | Python, AI/ML, React |
+| 🔥 **[Hotscan](https://github.com/mahak867/Hotscan)** | India's First Hot Wheels AI Scanner — identify & track your collection with computer vision | Python, AI/ML, React |
 | 🤖 **[AI Projects Hub](https://github.com/mahak867/ai-projects-hub)** | A curated hub of AI-powered tools and experiments | LLM, RAG, Streamlit |
-| 🤟 **[Gesture Communication App](https://github.com/mahak867/gesture-communication-app)** | Real-time gesture recognition for communication | MediaPipe, Python |
+| 🤟 **[Gesture Communication App](https://github.com/mahak867/gesture-communication-app)** | Real-time gesture recognition for hands-free communication | MediaPipe, Python |
 | 📈 **[Stock Monitor Pro](https://github.com/mahak867/stock-monitor-pro)** | Professional stock tracking and monitoring dashboard | React, Node.js, APIs |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mahak867&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
 
 ---
 
@@ -123,7 +141,7 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahakfahad07@gmail.com)
-[![Website](https://img.shields.io/badge/hotscan.in-e63946?style=for-the-badge)](https://hotscan.in)
+[![Website](https://img.shields.io/badge/hotscan.in-e63946?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hotscan.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahak-fahad)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak867)
 
@@ -133,9 +151,7 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 
 <div align="center">
 
-[![Visitor Count](https://komarev.com/ghpvc/?username=mahak867&label=Profile%20Views&color=e63946&style=flat)](https://github.com/mahak867)
-
-*"Build fast. Learn faster. Ship things that matter."*
+*"Most people wait for the right time. I ship."*
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=e63946&height=100&section=footer)
 
