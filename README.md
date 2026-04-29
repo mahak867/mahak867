@@ -49,10 +49,7 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -64,6 +61,16 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 | 🤖 **[AI Projects Hub](https://github.com/mahak867/ai-projects-hub)** | A curated hub of AI-powered tools and experiments | LLM, RAG, Streamlit |
 | 🤟 **[Gesture Communication App](https://github.com/mahak867/gesture-communication-app)** | Real-time gesture recognition for communication | MediaPipe, Python |
 | 📈 **[Stock Monitor Pro](https://github.com/mahak867/stock-monitor-pro)** | Professional stock tracking and monitoring dashboard | React, Node.js, APIs |
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mahak867&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
 
 ---
 
@@ -81,22 +88,46 @@ I'm **Mahak Fahad** — a student, developer, and founder passionate about build
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahakfahad07@gmail.com)
-[![Website](https://img.shields.io/badge/🌐_hotscan.in-e63946?style=for-the-badge)](https://hotscan.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahak-fahad)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak867)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahak867&theme=redical&hide_border=true&color=e63946&line=e63946&point=ffffff&area=true)
 
 </div>
 
 ---
 
-## 🏆 Contribution Activity
+## 🧊 3D Contribution Graph
 
-![3D Contribution Graph](https://raw.githubusercontent.com/mahak867/mahak867/output-3d-contrib/day.svg)
+<div align="center">
+
+![3D Graph](https://raw.githubusercontent.com/mahak867/mahak867/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/mahak867/mahak867/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahakfahad07@gmail.com)
+[![Website](https://img.shields.io/badge/hotscan.in-e63946?style=for-the-badge)](https://hotscan.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahak-fahad)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahak867)
+
+</div>
 
 ---
 
